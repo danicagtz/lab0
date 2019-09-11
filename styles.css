@@ -7,9 +7,12 @@ body {
 #footer {
     background: white;
     height: 10%;
+    text-align: center;
 }
 
 .cv-text {
     border: 2px solid yellow;
-
+    background: lightcoral;
+    text-align: center;
 }
+
